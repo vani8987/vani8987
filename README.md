@@ -1,3 +1,3 @@
 <div id="header" align="center">
-   <h2>я фронтенд программист на реакт</h2>
+   <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt"><img/>
 </div>
