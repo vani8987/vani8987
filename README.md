@@ -1,5 +1,5 @@
-### :man_technologist: Обо мне :
-  Я фронтенд разработчик на реакт <img src="https://ganeshbharti.gallerycdn.vsassets.io/extensions/ganeshbharti/react-sinppets/0.0.1/1707235564913/Microsoft.VisualStudio.Services.Icons.Default" width="30">.
+###  Обо мне :
+  ---Я фронтенд разработчик на реакт <img src="https://ganeshbharti.gallerycdn.vsassets.io/extensions/ganeshbharti/react-sinppets/0.0.1/1707235564913/Microsoft.VisualStudio.Services.Icons.Default" width="30">.
 
 
 <div id="header" align="center">
