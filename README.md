@@ -117,9 +117,3 @@ https://packagist.org/packages/vani8987/mini-framework
 - Microservices
 - Scalable backend architecture
 
----
-
-## 📫 Contact Me
-
-💬 Telegram: **@ivan_Gorin1243**  
-📍 Location: Russia
