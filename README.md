@@ -121,7 +121,6 @@ https://packagist.org/packages/vani8987/mini-framework
 
 ## 📫 Contact Me
 
-📧 Email: **ivanpavlovich1423@mail.ru**  
 💬 Telegram: **@ivan_Gorin1243**  
 📍 Location: Russia
 
